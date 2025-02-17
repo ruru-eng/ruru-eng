@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there, my name is Ru and this is my personal learning repo on git. I am a student trying to learn how to code and I appreciate help and good advices.
 
 <!--
 **ruru-eng/ruru-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
